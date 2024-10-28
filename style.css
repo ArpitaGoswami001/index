@@ -1,0 +1,54 @@
+.marquee{
+    background-color: aquamarine;
+    font-size: 20px;
+    height:25px;
+    width:100%;
+    border:2px solid black;
+    border-radius: 6px;
+    border-style: double;
+}
+.one{
+    width:1000px;
+}
+.one-text{
+    width:450px;
+    float:left;
+    margin-top:20px ;
+    margin-left: 40px;
+}
+.one-image{
+    width:400px;
+    float:left;
+    margin-top:20px ;
+    margin-left:100px;
+}
+.one-image img{
+    width:300px;
+    height:200px;
+}
+.one-text h3{
+    font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+}
+.one-text h1{
+    font-family: "Roboto", serif;
+    font-weight: 700;
+    font-style: italic;
+  
+  font-size: 25px;
+}
+.one-text p{
+
+}
+.one-text button{
+    height:20px;
+    width:150px;
+    border:2px solid black;
+    border-radius: 6px;
+    background-color: rgba(72, 255, 0, 0.562);
+    text-align: center;
+    margin-left: 95px;
+    margin-bottom: 20px;
+}
